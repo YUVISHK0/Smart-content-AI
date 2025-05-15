@@ -2,5 +2,5 @@ import { redirect } from "next/navigation";
 
 export default function Home() {
   redirect("/dashboard");
-  // return <div>nishant jangid</div>;
+  // return <div>yuvraj saini</div>;
 }
